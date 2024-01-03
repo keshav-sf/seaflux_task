@@ -1,3 +1,7 @@
 hello world
 its changed now after merge
 changes done
+how are you?
+now added from branch
+changes from branch
+
